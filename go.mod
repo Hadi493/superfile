@@ -17,7 +17,7 @@ require (
 	github.com/muesli/termenv v0.16.0
 	github.com/reinhrst/fzf-lib v0.9.0
 	github.com/rkoesters/xdg v0.0.1
-	github.com/shirou/gopsutil/v4 v4.25.4
+	github.com/shirou/gopsutil/v4 v4.25.7
 	github.com/stretchr/testify v1.10.0
 	github.com/urfave/cli/v3 v3.3.8
 	golang.org/x/image v0.28.0
@@ -29,7 +29,7 @@ require (
 	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
 	github.com/charmbracelet/x/cellbuf v0.0.13-0.20250311204145-2c3ea96c31dd // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
-	github.com/ebitengine/purego v0.8.3 // indirect
+	github.com/ebitengine/purego v0.8.4 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
@@ -78,6 +78,6 @@ require (
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/sync v0.15.0 // indirect
-	golang.org/x/sys v0.32.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
 	golang.org/x/text v0.26.0
 )
