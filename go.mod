@@ -20,7 +20,7 @@ require (
 	github.com/shirou/gopsutil/v4 v4.25.4
 	github.com/stretchr/testify v1.10.0
 	github.com/urfave/cli/v3 v3.3.8
-	golang.org/x/image v0.28.0
+	golang.org/x/image v0.30.0
 	golang.org/x/mod v0.27.0
 	golift.io/xtractr v0.2.2
 )
@@ -77,7 +77,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	golang.org/x/sync v0.15.0 // indirect
+	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/sys v0.32.0 // indirect
-	golang.org/x/text v0.26.0
+	golang.org/x/text v0.28.0
 )
